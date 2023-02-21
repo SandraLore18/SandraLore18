@@ -69,7 +69,7 @@
   
 
 [<img align="left" alt="sandrarios | LinkedIn" width="40px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-  
+ <br/> 
 [<img align="left" alt="sandrarios | Instagram" width="40px" padding-lef="20px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
 
