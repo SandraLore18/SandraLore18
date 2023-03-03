@@ -57,11 +57,6 @@
   
 <br/>
 
----
-
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
- 
----
 
 
 ### Contact with me 📝
